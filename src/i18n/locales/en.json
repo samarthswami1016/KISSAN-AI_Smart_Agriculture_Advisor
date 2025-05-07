@@ -1,0 +1,153 @@
+{
+  "common": {
+    "home": "Home",
+    "cropHealth": "Crop Health",
+    "weather": "Weather",
+    "alerts": "Alerts",
+    "profile": "Profile",
+    "market": "Market Research",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "logout": "Logout",
+    "loading": "Loading...",
+    "error": "Error",
+    "language": "Language"
+  },
+  "cropHealth": {
+    "title": "Crop Health Analysis",
+    "subtitle": "Upload crop images for AI-powered health assessment and recommendations",
+    "upload": "Upload Image",
+    "uploadInstructions": "Click to upload or drag and drop",
+    "supportedFormats": "Supported formats: JPG, PNG, WEBP",
+    "selectedImage": "Selected crop image",
+    "analysisResults": "Analysis Results",
+    "analyzing": "Analyzing crop health...",
+    "analysisError": "Image analysis failed",
+    "invalidResponse": "Invalid analysis response received",
+    "fileSizeError": "Image must be under 10MB",
+    "fileTypeError": "Only JPG, PNG and WEBP formats supported",
+    "healthStatus": "Health Status",
+    "healthy": "Healthy Growth Detected",
+    "issues": "Health Issues Detected",
+    "identified": "Crop Identified As:",
+    "confidence": "confidence level",
+    "detectedIssues": "Detected Issues",
+    "probability": "probability",
+    "treatment": "Recommended Treatment",
+    "recommendations": "Recommendations",
+    "uploadPrompt": "Upload an image for AI-powered crop health analysis",
+    "tips": "Best Practices for Analysis",
+    "tip1": "Ensure clear, well-lit photos of affected areas",
+    "tip2": "Include both healthy and affected sections for comparison",
+    "tip3": "Capture multiple angles when possible",
+    "healthyRecommendations": [
+      "Maintain current care practices - crop shows optimal growth",
+      "Continue monitoring leaf color and growth patterns",
+      "Follow established irrigation and fertilization schedule"
+    ],
+    "unhealthyRecommendations": [
+      "Address identified issues promptly",
+      "Seek consultation with agricultural expert",
+      "Adjust care practices based on analysis findings"
+    ]
+  },
+  "profile": {
+    "title": "Profile",
+    "editProfile": "Edit Profile",
+    "farmingExperience": "Agricultural Experience",
+    "farmDetails": "Farm Information",
+    "totalLand": "Total Land Area",
+    "mainCrops": "Primary Crops",
+    "farmingSince": "Years in Agriculture",
+    "irrigationType": "Irrigation System",
+    "currentSeason": "Current Growing Season",
+    "cropType": "Crop Variety",
+    "sowingDate": "Planting Date",
+    "expectedHarvest": "Projected Harvest",
+    "cropHealth": "Crop Condition",
+    "name": "Full Name",
+    "phone": "Primary Contact",
+    "additionalContacts": "Additional Contacts",
+    "addNewContact": "Add contact number"
+  },
+  "alerts": {
+    "header": "Agricultural Alerts",
+    "subHeader": "Stay informed with critical farming updates and recommendations",
+    "pestAlert": {
+      "title": "Pest Alert",
+      "message": "Elevated pest infestation risk detected. Implement preventive measures.",
+      "time": "2 hours ago"
+    },
+    "weatherUpdate": {
+      "title": "Weather Alert",
+      "message": "Heavy precipitation forecast within 48 hours. Secure crops accordingly.",
+      "time": "4 hours ago"
+    },
+    "marketAlert": {
+      "title": "Market Update",
+      "message": "Wheat prices show 10% increase in local markets.",
+      "time": "6 hours ago"
+    },
+    "settings": {
+      "title": "Notification Preferences",
+      "weather": "Weather Alerts",
+      "pest": "Pest Warnings",
+      "market": "Market Updates",
+      "push_sms": "Push & SMS",
+      "push": "Push Only",
+      "sms": "SMS Only"
+    }
+  },
+  "home": {
+    "welcome": "Welcome to Your Farm Dashboard",
+    "subtitle": "Access AI-powered insights for optimal agricultural decisions",
+    "cropStatus": "Current Crop Status",
+    "cropHealthy": "Crops showing healthy development",
+    "healthyGrowth": "Optimal Growth",
+    "weatherNow": "Current Weather",
+    "weatherDesc": "Clear conditions with moderate humidity",
+    "irrigation": "Irrigation Schedule",
+    "nextIrrigation": "Next irrigation cycle in 2 hours",
+    "tips": "Agricultural Best Practices",
+    "cropRotation": "Crop Rotation",
+    "cropRotationDesc": "Implement rotation strategies to enhance soil health and reduce pest pressure",
+    "moisture": "Moisture Management",
+    "moistureDesc": "Monitor soil moisture levels for optimal irrigation timing",
+    "pestControl": "Pest Management",
+    "pestControlDesc": "Apply organic pest control methods during early growth phases"
+  },
+  "weather": {
+    "title": "Weather Forecast",
+    "subtitle": "Plan agricultural activities with precision weather data",
+    "current": "Current Conditions",
+    "forecast": "5-Day Forecast",
+    "wind": "Wind Speed",
+    "humidity": "Humidity Level",
+    "feelsLike": "Perceived Temperature",
+    "advisory": "Agricultural Advisory",
+    "morning": "Morning Operations",
+    "warning": "Weather Warning",
+    "windAdvisory": "Wind Advisory",
+    "today": "Today",
+    "tomorrow": "Tomorrow",
+    "highTemp": "Early irrigation recommended due to elevated temperatures",
+    "normalTemp": "Favorable conditions for standard agricultural operations",
+    "strongWind": "High winds expected - secure equipment and structures",
+    "noWarning": "No severe weather alerts",
+    "sprayingOk": "Conditions suitable for agricultural spraying",
+    "sprayingNo": "Delay spraying operations due to wind conditions"
+  },
+  "market": {
+    "title": "Agricultural Market Analysis",
+    "subtitle": "Make informed decisions with comprehensive market intelligence",
+    "topPerforming": "Leading Crop Performance",
+    "marketTrends": "Market Dynamics",
+    "riskAnalysis": "Risk Assessment",
+    "profitPotential": "Revenue Potential",
+    "marketInsights": "Market Intelligence",
+    "priceHistory": "Historical Pricing",
+    "demandForecast": "Demand Projections",
+    "recommendations": "Strategic Recommendations"
+  }
+}
